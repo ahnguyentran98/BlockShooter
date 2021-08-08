@@ -1,0 +1,230 @@
+[api-updater (non-obsolete-error-filter)] 4/9/2021 10:44:29 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 769.3265ms
+moved types parse time: 70ms
+candidates parse time : 1ms
+C# parse time         : 828ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 2:06:59 AM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 873.4283ms
+moved types parse time: 70ms
+candidates parse time : 2ms
+C# parse time         : 720ms
+candidates check time : 38ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 2:09:09 AM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 100.92ms
+moved types parse time: 90ms
+candidates parse time : 2ms
+C# parse time         : 291ms
+candidates check time : 51ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 2:11:39 AM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.5774ms
+moved types parse time: 72ms
+candidates parse time : 1ms
+C# parse time         : 273ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 2:12:30 AM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.4292ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 265ms
+candidates check time : 40ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 2:12:47 AM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 102.3948ms
+moved types parse time: 73ms
+candidates parse time : 2ms
+C# parse time         : 259ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 2:13:03 AM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 111.145ms
+moved types parse time: 76ms
+candidates parse time : 1ms
+C# parse time         : 297ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 2:13:58 AM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 81.9635ms
+moved types parse time: 99ms
+candidates parse time : 1ms
+C# parse time         : 259ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 2:15:12 AM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119.5795ms
+moved types parse time: 103ms
+candidates parse time : 2ms
+C# parse time         : 325ms
+candidates check time : 55ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 2:15:28 AM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 86.6378ms
+moved types parse time: 71ms
+candidates parse time : 2ms
+C# parse time         : 261ms
+candidates check time : 70ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 1:17:51 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1090.8663ms
+moved types parse time: 83ms
+candidates parse time : 1ms
+C# parse time         : 866ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 1:44:14 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 242.7781ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 283ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 1:46:04 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 104.4339ms
+moved types parse time: 83ms
+candidates parse time : 2ms
+C# parse time         : 285ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 1:46:39 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 85.9229ms
+moved types parse time: 73ms
+candidates parse time : 2ms
+C# parse time         : 285ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 1:48:54 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 82.6139ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 240ms
+candidates check time : 60ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/10/2021 1:49:56 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 92.7211ms
+moved types parse time: 75ms
+candidates parse time : 2ms
+C# parse time         : 280ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/11/2021 4:43:14 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1216.6668ms
+moved types parse time: 94ms
+candidates parse time : 2ms
+C# parse time         : 1024ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/11/2021 4:46:15 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.5097ms
+moved types parse time: 83ms
+candidates parse time : 2ms
+C# parse time         : 293ms
+candidates check time : 33ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/11/2021 4:52:04 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 88.6787ms
+moved types parse time: 80ms
+candidates parse time : 2ms
+C# parse time         : 302ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/11/2021 4:52:37 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 82.7114ms
+moved types parse time: 70ms
+candidates parse time : 1ms
+C# parse time         : 269ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/11/2021 4:53:44 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94.7715ms
+moved types parse time: 94ms
+candidates parse time : 2ms
+C# parse time         : 319ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/11/2021 5:11:54 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93.0663ms
+moved types parse time: 69ms
+candidates parse time : 2ms
+C# parse time         : 241ms
+candidates check time : 32ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/11/2021 5:12:58 PM : Starting D:/ProgramingFX/Game/2020.3.0f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 86.4565ms
+moved types parse time: 98ms
+candidates parse time : 2ms
+C# parse time         : 333ms
+candidates check time : 45ms
+console write time    : 1ms
+
